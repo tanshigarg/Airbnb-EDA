@@ -6,7 +6,7 @@ This project explores and analyzes an Airbnb dataset using Python (Jupyter Noteb
 
 ## 📁 Project Files
 
-- 📘 **Notebook**: [Airbnb EDA.ipynb](./Airbnb%20EDA.ipynb)
+- 📘 **Notebook**: [Airbnb EDA.ipynb](https://github.com/tanshigarg/Airbnb-EDA/blob/a11f2c0f73cd6ec10d3fe9edcbc5c9c8df8a08df/Airbnb%20EDA.ipynb)
 - 📊 **Dataset**: [Download Airbnb Dataset (CSV)](./Airbnb%20Dataset.csv)
 
 ---
